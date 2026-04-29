@@ -135,10 +135,11 @@ Authorization: Bearer <token>
 
 ## 👨‍💻 Author
 
-Your Name
+**Gaurav**
+
+* 💼 LinkedIn: https://www.linkedin.com/in/gaurav-lad137
+* 📧 Open to opportunities and collaborations
 
 ---
 
-## 📎 Submission
-
-GitHub Repo: https://github.com/your-username/taskmaster
+⭐ If you found this helpful, don’t forget to star the repo!
